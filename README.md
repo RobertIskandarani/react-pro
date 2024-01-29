@@ -1,46 +1,157 @@
-# Getting Started with Create React App
+# Curso React Pro
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Curso realizado en Udemy para ampliar mis conocimientos de React.
 
-## Available Scripts
+## Branches
 
-In the project directory, you can run:
+Las branches van a ir mostrando el avance del curso y el avance de los conocimientos.
 
-### `npm start`
+## Contenido del curso
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. React con TypeScript en un 95% del curso
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. Lazyload y Suspense
 
-### `npm test`
+3. Rutas Hijas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Modularización
 
-### `npm run build`
+5. Git y GitHub para el manejo de ramas, versiones y acciones
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+6. Patrones de creación de componentes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   1. Compound Components Pattern
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   2. Extensible Styles Pattern
 
-### `npm run eject`
+   3. Control Props Pattern
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+   4. State Initializer Pattern
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   5. Function Child Pattern
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+   6. Custom State Initializer + Function Child pattern
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+7. Despliegues a NPM
 
-## Learn More
+   1. TSDX
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   2. Storybook to NPM
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   3. Despliegue manual a NPM: TypeScript + create-react-app
+
+   4. Semantic Release automático
+
+8. Formik
+
+   1. Formularios tradicionales
+
+   2. Validaciones manuales
+
+   3. Validaciones con Yup
+
+   4. Custom Formik Hooks
+
+   5. Componentes de Formik
+
+   6. Formik Abstractation
+
+   7. Componentes personalizados reutilizables para Formik
+
+   8. Formularios dinámicos
+
+   9. Validaciones de formularios dinámicos
+
+9. Storybook
+
+   1. Introducciones
+
+   2. Properties
+
+   3. Opciones
+
+   4. Elementos
+
+   5. Controles
+
+   6. Despliegues
+
+   7. Publicaciones a NPM
+
+   8. TypeScript
+
+   9. Documentación automática
+
+   10. Bonus: Chromatic
+
+   11. Bonus: Notas en Chromatic
+
+10. GitHub Actions: El procedimiento a crear el siguiente
+
+    1. Configuración de acciones
+
+    2. Instalación de Node
+
+    3. Build de aplicacion de React
+
+    4. Creación de un versionamiento semantico
+
+    5. Generar Release
+
+    6. Publicación automática a Npm
+
+    7. Despliegue automático de Storybook
+
+11. PWA:
+
+    1. Service Worker
+
+    2. Manifest
+
+    3. Configuraciones automáticas de npx create-react-app
+
+    4. Configuraciones manuales
+
+    5. Estrategias de caché
+
+       1. Pre-cache
+
+       2. Cache Only
+
+       3. Cache first with network fallback
+
+       4. Network first with cache fallback
+
+       5. Network only
+
+    6. Offline mode
+
+    7. CRUD sin conexión
+
+       1. Create
+
+       2. Read
+
+       3. Update
+
+       4. Delete
+
+    8. Background Sync
+
+12. Workbox
+
+    1. Configuración manual
+
+    2. Configuración con Wizard
+
+    3. Configuración preferida por mi (manual)
+
+    4. Background Sync
+
+    5. IndexedDB
+
+    6. Workbox CDN
+
+    7. Módulos de Workbox
+
+13. React - Detectar online y offline
